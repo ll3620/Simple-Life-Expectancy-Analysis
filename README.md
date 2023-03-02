@@ -6,6 +6,8 @@ The dataset used for this analysis is retrieved from Kaggle: https://www.kaggle.
 
 This project is solely conducted using the R programming language, and the regression methods studied are:
 
-Multiple linear regression
-Lasso Regression
-Principal components regression.
+1: Multiple linear regression
+
+2: Lasso Regression
+
+3: Principal components regression.
